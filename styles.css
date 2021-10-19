@@ -1,7 +1,12 @@
 h3 {
     padding: 5px;
-    color: black;
-    background-color: orange;
+    color:white;
+    background-color: grey;
     border-radius: 3px;
 
+}
+
+.bio-image {
+    max-width: 30%;
+    height: auto;
 }
